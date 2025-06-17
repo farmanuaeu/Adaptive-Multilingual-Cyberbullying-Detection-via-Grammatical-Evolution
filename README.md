@@ -163,11 +163,11 @@ GRAMMAR = {
 ## Citation <a name="citation"></a>
 ```bash
 @software{cyberbullying_detection_2025,
-  author = {Your Name},
-  title = {Adaptive Multilingual Cyberbullying Detection via Grammatical Evolution},
+  author = {Walaa Saber Ismail, Hikmat Ullah,Muhammad Adnan,
+Farman Ullah},
+  title = {AAdaptive multilingual cyberbullying detection via Grammatical Evolution},
   year = {2025},
   publisher = {PeerJ},
   journal = {PeerJ},
-  url = {https://github.com/wasay530/Adaptive-Multilingual-Cyberbullying-Detection-via-Grammatical-Evolution}
 }
 ```
