@@ -1,4 +1,5 @@
 # Adaptive Multilingual Cyberbullying Detection via Grammatical Evolution
+[![DOI](https://zenodo.org/badge/1003588540.svg)](https://doi.org/10.5281/zenodo.18959370)
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
